@@ -14,6 +14,7 @@ spring:
           search-paths: configs
           username: 1321915717@qq.com
           password: 75432054yu
+      uri:
   zipkin:
     base-url: http://192.168.1.6:9411
 
